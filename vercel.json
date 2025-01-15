@@ -1,0 +1,11 @@
+{
+"projects": {
+    "frontend": {
+        "rootDirectory": "todo-frontend"
+    },
+    "backend": {
+        "rootDirectory": "todo-backend"
+    }
+}
+}
+  
